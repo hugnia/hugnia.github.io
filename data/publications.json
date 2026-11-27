@@ -1,0 +1,289 @@
+[
+  {
+    "title": "Code in Space: How Multimodal Human-AI Experience Can Reshape the Future of Tech Creation",
+    "year": 2026,
+    "arxiv": "https://arxiv.org/abs/2609.13167",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&cstart=20&pagesize=80&citation_for_view=EHnCIIwAAAAJ:3fE2CSJIrl8C",
+    "writeups": [
+      {
+        "label": "JetBrains write-up",
+        "url": "https://blog.jetbrains.com/research/2026/07/ai-and-xr-future/"
+      },
+      {
+        "label": "Kairos write-up",
+        "url": "https://kairos.jetbrains.com/research/articles/code-in-space-ai-and-xr"
+      }
+    ]
+  },
+  {
+    "title": "Configurable AI Coding Assistants: Designing For Developers Who Like to Be in Control",
+    "year": 2026,
+    "paper": "https://doi.org/10.1145/3803437.3806709",
+    "venue": "FSE Companion",
+    "arxiv": "https://arxiv.org/abs/2607.09215",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:MXK_kJrjxJIC",
+    "writeups": [
+      {
+        "label": "Kairos write-up",
+        "url": "https://kairos.jetbrains.com/research/articles/the-control-board-developers-would-build"
+      },
+      {
+        "label": "Kairos research brief",
+        "url": "https://kairos.jetbrains.com/research/articles/configurable-ai-coding-assistants"
+      }
+    ]
+  },
+  {
+    "title": "Deriving Personas to Describe Software Development Team Members in the Era of GenAI",
+    "year": 2026,
+    "paper": "https://doi.org/10.1109/icsme67971.2026.00042",
+    "venue": "IEEE International Conference on Software Maintenance (ICSM)",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&cstart=20&pagesize=80&citation_for_view=EHnCIIwAAAAJ:kNdYIx-mwKoC"
+  },
+  {
+    "title": "Developer Interaction Patterns with Proactive AI: A Five-Day Field Study",
+    "year": 2026,
+    "paper": "https://doi.org/10.1145/3742413.3789148",
+    "venue": "IUI",
+    "arxiv": "https://arxiv.org/abs/2601.10253",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:UebtZRa9Y70C",
+    "writeups": [
+      {
+        "label": "JetBrains research roundup",
+        "url": "https://blog.jetbrains.com/research/2026/03/ai4se-in-2025/"
+      }
+    ],
+    "videos": [
+      {
+        "label": "ProAIDE video on LinkedIn",
+        "url": "https://lnkd.in/p/d2y2_BHq"
+      }
+    ]
+  },
+  {
+    "title": "Developer Needs and Feasible Features for AI Assistants in IDEs",
+    "year": 2026,
+    "paper": "https://doi.org/10.1145/3786583.3786883",
+    "venue": "ICSE-SEIP",
+    "arxiv": "https://arxiv.org/abs/2410.08676",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:zYLM7Y9cAGgC",
+    "writeups": [
+      {
+        "label": "JetBrains write-up",
+        "url": "https://blog.jetbrains.com/research/2025/06/software-developers-on-ai/"
+      },
+      {
+        "label": "Kairos write-up",
+        "url": "https://kairos.jetbrains.com/research/articles/what-developers-want-and-what-gets-built"
+      },
+      {
+        "label": "Kairos research brief",
+        "url": "https://kairos.jetbrains.com/research/articles/developer-needs-and-feasible-features"
+      },
+      {
+        "label": "Kairos mirror of the JetBrains write-up",
+        "url": "https://kairos.jetbrains.com/research/articles/software-developers-on-ai"
+      }
+    ]
+  },
+  {
+    "title": "Does In-IDE Calibration of Large Language Models work at Scale?",
+    "year": 2026,
+    "paper": "https://doi.org/10.1145/3803437.3805234",
+    "venue": "FSE Industry",
+    "arxiv": "https://arxiv.org/abs/2510.22614",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&cstart=20&pagesize=80&citation_for_view=EHnCIIwAAAAJ:roLk4NBRz8UC"
+  },
+  {
+    "title": "Evolving with AI: A Longitudinal Analysis of Developer Logs",
+    "year": 2026,
+    "paper": "https://doi.org/10.1145/3744916.3787811",
+    "venue": "ICSE",
+    "arxiv": "https://arxiv.org/abs/2601.10258",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:Se3iqnhoufwC",
+    "writeups": [
+      {
+        "label": "JetBrains write-up",
+        "url": "https://blog.jetbrains.com/research/2026/04/ai-impact-developer-workflows/"
+      },
+      {
+        "label": "Kairos write-up",
+        "url": "https://kairos.jetbrains.com/research/articles/understanding-ai-impact-on-developer-workflows"
+      }
+    ]
+  },
+  {
+    "title": "Exploring multimodal AI--XR interactions for software development: From expert perspectives to semantic code outlines",
+    "year": 2026,
+    "arxiv": "https://arxiv.org/abs/2611.24334",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&cstart=20&pagesize=80&citation_for_view=EHnCIIwAAAAJ:ULOm3_A8WrAC"
+  },
+  {
+    "title": "From Disruptions to Discussions: How GenAI Impacts Human Interactions in Software Development",
+    "year": 2026,
+    "paper": "https://doi.org/10.1109/tse.2026.3655626",
+    "venue": "IEEE Transactions on Software Engineering",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:hqOjcs7Dif8C"
+  },
+  {
+    "title": "GAZEAIDE: Recording Gaze Context for Research on AI-Assisted Development",
+    "year": 2026,
+    "arxiv": "https://arxiv.org/abs/2611.27614",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:YOwf2qJgpHMC"
+  },
+  {
+    "title": "Human-AI experience in integrated development environments: a systematic literature review",
+    "year": 2026,
+    "paper": "https://doi.org/10.1007/s10664-025-10793-0",
+    "venue": "Empirical Software Engineering",
+    "arxiv": "https://arxiv.org/abs/2503.06195",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:Tyk-4Ss8FVUC",
+    "writeups": [
+      {
+        "label": "Kairos write-up",
+        "url": "https://kairos.jetbrains.com/research/articles/what-90-studies-say-about-ai-in-the-ide"
+      }
+    ]
+  },
+  {
+    "title": "The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures",
+    "year": 2026,
+    "arxiv": "https://arxiv.org/abs/2611.13396",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&cstart=20&pagesize=80&citation_for_view=EHnCIIwAAAAJ:KlAtU1dfN6UC"
+  },
+  {
+    "title": "Trust-Calibrated Code Review: A Participatory Design Study of Review Workflows for LLM-Generated Multi-File Changes",
+    "year": 2026,
+    "paper": "https://doi.org/10.4230/lipics.esem.2026.89",
+    "venue": "ESEM",
+    "arxiv": "https://arxiv.org/abs/2606.01969",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:5nxA0vEk-isC",
+    "writeups": [
+      {
+        "label": "JetBrains write-up",
+        "url": "https://blog.jetbrains.com/research/2026/10/review-ai-generated/"
+      }
+    ]
+  },
+  {
+    "title": "AI in Software Engineering: Perceived Roles and Their Impact on Adoption",
+    "year": 2025,
+    "paper": "https://doi.org/10.1145/3696630.3730563",
+    "venue": "FSE",
+    "arxiv": "https://arxiv.org/abs/2504.20329",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:W7OEmFMy1HYC"
+  },
+  {
+    "title": "From Teacher to Colleague: How Coding Experience Shapes Developer Perceptions of AI Tools",
+    "year": 2025,
+    "arxiv": "https://arxiv.org/abs/2504.13903",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:Y0pCki6q_DkC"
+  },
+  {
+    "title": "Prompt-with-Me: in-IDE Structured Prompt Management for LLM-Driven Software Engineering",
+    "year": 2025,
+    "paper": "https://doi.org/10.1109/ase63991.2025.00276",
+    "venue": "ASE",
+    "arxiv": "https://arxiv.org/abs/2509.17096",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:LkGwnXOMwfcC",
+    "writeups": [
+      {
+        "label": "JetBrains research roundup",
+        "url": "https://blog.jetbrains.com/research/2026/03/ai4se-in-2025/"
+      }
+    ]
+  },
+  {
+    "title": "Understanding Developer Information Needs for Software with Embedded Natural Language Prompts",
+    "year": 2025,
+    "arxiv": "https://arxiv.org/abs/2507.17264",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:WF5omc3nYNoC"
+  },
+  {
+    "title": "Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward",
+    "year": 2025,
+    "paper": "https://doi.org/10.1016/j.infsof.2024.107610",
+    "venue": "Information and Software Technology",
+    "arxiv": "https://arxiv.org/abs/2406.07765",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:UeHWp8X0CEIC"
+  },
+  {
+    "title": "When People Come First: A Human-Centered Approach to Computer Science Education",
+    "year": 2025,
+    "paper": "https://doi.org/10.1145/3724389.3730766",
+    "venue": "ACM Conference on Innovation and Technology in Computer Science Education (ITiCSE)",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:YsMSGLbcyi4C"
+  },
+  {
+    "title": "A Design Space for Intelligent and Interactive Writing Assistants",
+    "year": 2024,
+    "paper": "https://doi.org/10.1145/3613904.3642697",
+    "venue": "CHI",
+    "arxiv": "https://arxiv.org/abs/2403.14117",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:qjMakFHDy7sC"
+  },
+  {
+    "title": "Assessing Consensus of Developers' Views on Code Readability",
+    "year": 2024,
+    "arxiv": "https://arxiv.org/abs/2407.03790",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:IjCSPb-OGe4C"
+  },
+  {
+    "title": "In-IDE Human-AI Experience in the Era of Large Language Models; A Literature Review",
+    "year": 2024,
+    "arxiv": "https://arxiv.org/abs/2401.10739",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:9yKSN-GCB0IC"
+  },
+  {
+    "title": "Reassessing Java Code Readability Models with a Human-Centered Approach",
+    "year": 2024,
+    "paper": "https://doi.org/10.1145/3643916.3644435",
+    "venue": "ICPC",
+    "arxiv": "https://arxiv.org/abs/2401.14936",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:d1gkVwhDpl0C"
+  },
+  {
+    "title": "Overcoming the Mental Set Effect in Programming Problem Solving",
+    "year": 2023,
+    "arxiv": "https://arxiv.org/abs/2307.06673",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:2osOgNQ5qMEC",
+    "writeups": [
+      {
+        "label": "JetBrains research digest",
+        "url": "https://blog.jetbrains.com/research/2023/10/jetbrains-research-digest-2023-volume-2/"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Internship presentations on LinkedIn",
+        "url": "https://lnkd.in/p/dv8XqH7w"
+      }
+    ]
+  },
+  {
+    "title": "The Effect of Perceptual Load on Performance Within IDE in People with ADHD Symptoms",
+    "year": 2023,
+    "paper": "https://doi.org/10.1007/978-3-031-35017-7_9",
+    "venue": "HCI International",
+    "arxiv": "https://arxiv.org/abs/2302.06376",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&citation_for_view=EHnCIIwAAAAJ:u5HHmVD_uO8C",
+    "writeups": [
+      {
+        "label": "JetBrains research digest",
+        "url": "https://blog.jetbrains.com/research/2023/10/jetbrains-research-digest-2023-volume-2/"
+      }
+    ],
+    "videos": [
+      {
+        "label": "Internship presentations on LinkedIn",
+        "url": "https://lnkd.in/p/dv8XqH7w"
+      }
+    ]
+  },
+  {
+    "title": "What Writing Assistants Can Learn from Programming IDEs",
+    "year": 2023,
+    "arxiv": "https://arxiv.org/abs/2303.16175",
+    "scholar": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=EHnCIIwAAAAJ&cstart=20&pagesize=80&citation_for_view=EHnCIIwAAAAJ:u-x6o8ySG0sC"
+  }
+]
