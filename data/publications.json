@@ -146,6 +146,13 @@
     ]
   },
   {
+    "title": "Human-Centered AI in Development Environments",
+    "year": 2026,
+    "paper": "https://doi.org/10.4233/uuid:b60ec43d-77d2-4e5d-be51-58c7ff9499b7",
+    "paper_label": "Dissertation",
+    "venue": "TU Delft doctoral dissertation"
+  },
+  {
     "title": "The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures",
     "year": 2026,
     "arxiv": "https://arxiv.org/abs/2611.13396",

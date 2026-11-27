@@ -174,7 +174,7 @@ def render(studies):
         metadata = f'{study["year"]} · {venue}' if venue else str(study["year"])
         links = []
         if study.get("paper"):
-            links.append(link("Paper", study["paper"]))
+            links.append(link(study.get("paper_label", "Paper"), study["paper"]))
         if study.get("arxiv"):
             links.append(link("arXiv", study["arxiv"]))
         if not links and study.get("scholar"):
