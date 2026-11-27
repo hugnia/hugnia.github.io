@@ -59,7 +59,7 @@ jobs:
         run: |
           mkdir -p _site/assets
           cp index.html cv.html styles.css publications.js _site/
-          cp assets/agnia-sergeyuk-cutout.png _site/assets/
+          cp assets/agnia-sergeyuk-cutout.png assets/share-card.png _site/assets/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: _site
